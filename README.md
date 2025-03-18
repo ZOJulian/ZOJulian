@@ -14,5 +14,4 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-#### 📈 GitHub Stats
-![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zojulian&show_icons=true&theme=radical)
+
