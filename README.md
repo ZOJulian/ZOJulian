@@ -1,6 +1,6 @@
 #### Hi there! I'm Julian 👋
 
-<img src="https://media.giphy.com/media/l3vRlT2k2L35Cnn5C/giphy.gif" width="300" alt="Dancing Donald Duck" />
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="300" alt="Waving Hello GIF" />
 
 
 #### 🎓 DHBW Student
