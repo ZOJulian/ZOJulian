@@ -1,1 +1,1 @@
-## Hi there, I'm Julian 👋
+## Hi there! I'm Julian 👋
