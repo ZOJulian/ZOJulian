@@ -1,8 +1,5 @@
 #### Hi there! I'm Julian 👋
 
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="300" alt="Waving Hello GIF" />
-
-
 #### 🎓 DHBW Student
 
 #### 🚀 Technologies & Tools
